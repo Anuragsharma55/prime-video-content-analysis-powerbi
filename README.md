@@ -88,12 +88,8 @@ prime-video-content-analytics/
 
 ##  Dashboard Preview
 
-Snapshot of dashboard.png
+![KPI View](Images/dashboard_kpis.png)
 
-(https://github.com/Anuragsharma55/prime-video-content-analytics/edit/main/README.md)
-```
-
----
 
 ##  How to Use
 
