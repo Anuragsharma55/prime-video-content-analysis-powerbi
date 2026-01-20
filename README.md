@@ -90,8 +90,7 @@ prime-video-content-analytics/
 
 Snapshot of dashboard.png
 
-```
-Images/dashboard_preview.png
+https://github.com/Anuragsharma55/prime-video-content-analytics/edit/main/README.md
 ```
 
 ---
