@@ -66,26 +66,6 @@ Some examples of insights that can be derived:
 * **Data Visualization & Storytelling**
 
 ---
-
-##  Repository Structure
-
-```
-prime-video-content-analytics/
-│
-├── Data/
-│   └── prime_video_dataset.csv
-│
-├── PowerBI/
-│   └── PrimeVideo_Dashboard.pbix
-│
-├── Images/
-│   └── dashboard_preview.png
-│
-└── README.md
-```
-
----
-
 ##  Dashboard Preview
 
 ![KPI View](https://github.com/Anuragsharma55/prime-video-content-analytics/blob/09881886890863f7afdd3b71fd22b3cefdd8816c/Snapshot%20of%20dashboard.png)
@@ -120,4 +100,18 @@ prime-video-content-analytics/
 * Add user engagement metrics
 
 ---
+##  Repository Structure
 
+```
+prime-video-content-analytics/
+│
+├── Data/
+│   └── prime_video_dataset.csv
+│
+├── PowerBI/
+│   └── PrimeVideo_Dashboard.pbix
+│
+├── Images/
+│   └── dashboard_preview.png
+│
+└── README.md
